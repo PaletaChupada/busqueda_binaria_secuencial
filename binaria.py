@@ -16,7 +16,7 @@ from time import time
 numeros = []
 
 # Leemos los numeros del archivo, y lo agregamos a un arreglo
-arch = np.loadtxt("D:\\Documentos\\ESCOM\\7moSemestre\\Analisis\\Practica 1\\numeros.txt", dtype="str", delimiter=" ")
+arch = np.loadtxt("path del documento txt", dtype="str", delimiter=" ")
 
 # Inicializamos la variable para el ciclo
 i=0
